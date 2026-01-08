@@ -196,6 +196,11 @@
   url: https://maps.app.goo.gl/divbTrdrm3R9cD5S6
   map_id: divbTrdrm2R9cD5S6
   address: 1833 17 St SW
+- name: Nomi Cafe
+  high_limit: 0
+  url: https://maps.app.goo.gl/XtV631sLkv3jZyEH7
+  map_id: XtV631sLkv3jZyEH7
+  address: 1415 10 Ave SW
 - url: https://www.calgary.ca/parks/riley-park.html
   low_limit: 0
   name: Patrick Burns Rock Garden at Riley Park
