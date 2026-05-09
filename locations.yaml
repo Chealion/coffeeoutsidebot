@@ -275,6 +275,7 @@
   low_limit: 8
   address: 4628 Bowness Rd NW
   rainy_day: true
+  paused: true # Review
 - name: Sought X Found Coffee
   url: https://www.soughtxfound.coffee
   high_limit: -3
