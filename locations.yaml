@@ -127,6 +127,7 @@
   url: https://www.calgary.ca/parks/princes-island-park.html
   low_limit: -5
   rainy_day: true
+  paused: true # This location is too finicky, retiring until further notice
   # TODO: need Google map id?
 - name: Gerry Shaw Gardens
   low_limit: 10
